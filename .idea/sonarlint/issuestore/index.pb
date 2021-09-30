@@ -1,0 +1,23 @@
+
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+7
+pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
+H
+SeleniumForBeginners.iml,e\f\efcc3e9d620fc40be0c3f565650bdca59e303714
+F
+src/test/java/Run.java,f\0\f0b27858162f58e6eff79c52ced8451e18072e29
+X
+(src/test/java/utility/WaitCondition.java,a\3\a35b61b0f536a0152d576794b007a12da3679a2d
+c
+3src/test/java/page/CloudGoogleSearchResultPage.java,1\4\14cb18e6a86c705a4456af64d43e67207092f657
+T
+$src/test/java/utility/DriverSet.java,f\c\fc88f013d9daf60fc5e9c481654b6a256aea1975
+a
+1src/test/java/page/CloudGoogleCalculatorPage.java,a\b\abfb79ed75057bc33cb4e9257badae550178d8f7
+\
+,src/test/java/page/PasteBinNewPastePage.java,7\b\7bd2ce394f8bb10b304a1fb431b48a4d57313011
+W
+'src/test/java/page/CloudGooglePage.java,1\b\1b58c4c54fe85070a608b7b41ee9f4fba4542f8a
+`
+0src/test/java/test/CalculatorEstimationTest.java,3\5\35c8dcb1f02571c80c6d9e5897d9182fcd82ce51
